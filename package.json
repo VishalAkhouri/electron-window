@@ -9,6 +9,6 @@
   "author": "Akhouri Vishal Sinha <vakhouri@gmail.com> (https://vishalakhouri.github.io)",
   "license": "MIT",
   "dependencies": {
-    "electron": "^6.0.0"
+    "electron": "^13.6.6"
   }
 }
